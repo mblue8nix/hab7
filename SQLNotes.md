@@ -12,9 +12,9 @@
 - User Max instead of Rank
 - Use simple equi-joins 
 
-## SQL Optimization
+## SQL Optimizations
 
-[MySQL SELECT Optimization](https://dev.mysql.com/doc/refman/8.0/en/select-optimization.html)
+[MySQL SELECT Optimizations](https://dev.mysql.com/doc/refman/8.0/en/select-optimization.html)
 
  
 
